@@ -1,0 +1,373 @@
+{
+  "main": {
+    "name":"I'm George Silva",
+    "description":"A software developer specialized in creating web applications using Python (Backend), React (Frontend) and AWS",
+    "image":"george_image.jpeg",
+    "bio":"I'm a Software Developer with 6+ years of experience. Good knowledge of Python, Django, Flask, Javascript, React, PHP, SQL, AWS, Docker, ShellScript and Linux. I have been working using agile methodologies such as SCRUM. In the last 3 years I have been working as Python Developer with experience in big national companies as Coco Bambu Restaurant, HAPVIDA Health, yzzer.com and international companies like Owlish Technology/Petco, Integritas Solutions(USA) and JalaSoft(Bolivia)/ScienceLogic(USA)",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "georgericardo26@gmail.com",
+    "phone": "+55 85 987193424",
+    "github":"https://github.com/georgericardo26",
+    "project":"https://www.linkedin.com/in/georgericardo/",
+    "address":{
+      "street":"Via Arterial Um, 838",
+      "city":"Aquiraz",
+      "state":"Ceará - Brazil",
+      "Country":"Brazil",
+      "zip": "60.821-835"
+    },
+    "website": "#",
+    "resumedownload":"https://georgeblog.s3.us-east-2.amazonaws.com/GEORGE+RICARDO+-+2021+(1).pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/georgericardo/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/georgericardo26",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Laureate International Universities",
+        "degree":"Analysis and Systems Development - Associate's degree",
+        "graduated":"Jul 2020 "
+      }
+    ],
+    "work":[
+      {
+        "company":"JalaSoft",
+        "title":"Python Developer",
+        "years":"March 2021 - Present",
+        "description":"Working as an outsource developer to the customer SienceLogic, developing and creating fixes on their product SL1 using python, JavaScript, and PHP. I do work using SNMP protocol, Linux command, AWS services, and MySQL databases. We do work using Scrum, daily meetings, and sprints. Communication just in English.",
+        "project": {
+          "name": "SL1",
+          "activities": [
+            {
+              "description": "Development of Python code to collect various data types: Network Interface, SNMP Devices, Network availability, etc…"
+            },
+            {
+              "description": "Development and management of Thread, Multiprocess, routines, coroutines and stand alone modules to collect data from devices"
+            },
+            {
+              "description": "Strong routine working using Linux server to handle, create the environments, deploy, etc.."
+            },
+            {
+              "description": "Development of Database SQL using Mysql and MariaDB"
+            },
+            {
+              "description": "Development of unit, integrations, and acceptance tests."
+            },
+            {
+              "description": "Daily communication with American team"
+            },
+            {
+              "description": "Use of the JIRA Software as management tool"
+            }
+          ],
+          "Technologies": "Python; Virtual Machine; MySQL; Linux; Pytest, SNMP Protocol, SNMP Walk, CI/CD; Jenkins"
+        }
+      },
+      {
+        "company":"Integritas Solutions (USA)",
+        "title":"Full Stack Developer",
+        "years":"Oct 2020 – Jan 2021",
+        "description":"An American company that provides outsourcing services and I've worked inside the customer called Q2 e-banking, one of the biggest digital e-banking around the USA. They have a digital platform built using asynchronous application, and my responsibility was creating new functionalities for new customers inside the platform, in the frontend using React, TypeScript, Jest (Unit Tests), and in the backend using Python, Tornado Framework, PostgreSQL, Pytests and Linux Server. Following the best practices in the workflow, using scrum, JIRA, and CI/CD processes using gitlab-CI.",
+        "project": {
+          "name": "Q2 e-banking",
+          "activities": [
+            {
+              "description": "Development of Python/Tornado (asynchronous application)"
+            },
+            {
+              "description": "Development of frontend features using ReactJS"
+            },
+            {
+              "description": "Development of unit, integrations, and acceptance tests."
+            },
+            {
+              "description": "Daily communication with American team"
+            },
+            {
+              "description": "Use of the JIRA Software as management tool"
+            }
+          ],
+          "Technologies": "Python; Tornado; JavaScript; ReactJS, PostgreSQL; Linux; Pytest, CI/CD; Gitlab-ci"
+        }
+      },
+      {
+        "company":"Oowlish Technology/Petco (USA)",
+        "title":"Python Developer",
+        "years":"Feb 2020 –Sep 2020",
+        "description":"Oowlish technology is a company located in Brazil but has customers from abroad, and I've worked for an American customer called Petco as an employee. The project I've worked on is called Insurance and Wellness. It's a web platform initially B2B and after adapted to D2C that provides Insurance plan (Insurance) and veterinary services (Wellness). I've worked in 2 strands. The first one was creating backend serverless applications using Python, Django, GraphQL (Graphene), MySQL, Docker, and AWS Services such as Lambda, API Gateway, RDS, Route53, CloudWatch. The second one was creating end-to-end automation tests. Using Robot Framework, Selenium, TestRail, SauceLabs, and Docker with CI/CD process using gitlab-ci and ATDD Methodology",
+        "project": {
+          "name": "Wellness/Insurance",
+          "activities": [
+            {
+              "description": "Development of Python/Django Applications"
+            },
+            {
+              "description": "Development of GraphQL APIs using Python and Graphene"
+            },
+            {
+              "description": "Development of Automated Testing using Robot Framework and Selenium"
+            },
+            {
+              "description": "Development of scalable structure using Docker and Docker-compose"
+            },
+            {
+              "description": "Development of serverless application using Lambda Functions, API Gateway and S3"
+            },
+            {
+              "description": "Deploy of project using CI/CD with Gitlab-c"
+            },
+            {
+              "description": "Development project using TDD and ATDD"
+            },
+            {
+              "description": "Daily communication with American team"
+            }
+          ],
+          "Technologies": " Python; Django, GraphQL, Graphene, Zappa, MySQL, Docker, Sumo Logic, Sentry, EC2, Lambda Functions, Gitlab Runners, RDS, Selenium, Robot Framework, Makefile, Docker, Docker-compose, Pytest, UnitTest, JIRA."
+        }
+      },
+      {
+        "company":"IntMed Software (Brazil)",
+        "title":"Software Development Engineer",
+        "years":"Sep 2019 – Jan 2020",
+        "description":"I've worked on creating a project for a customer called Hapvida, the biggest health network private in Brazil finding solutions for their issues. Standardization of Medical Report is a project created from problems that the doctors were facing creating reports manually and making human mistakes. I've worked with one more backend developer to create a solution in 2 strands. One area to create the model of reports and another to fill out the model with the real values. We've worked using Python, Django, Django rest Framework, Docker, Pytest, JavaScript, Angular, AWS Services, JIRA, and Scrum.",
+        "project": {
+          "name": "Standardization of Medical Report",
+          "activities": [
+            {
+              "description": "Development of Python/Django API"
+            },
+            {
+              "description": "Development of front-end (Javascript/Angular) application"
+            },
+            {
+              "description": "Development of scalable structure using Docker/Kubernates"
+            },
+            {
+              "description": "Development of cloud application using Amazon Web Service"
+            },
+            {
+              "description": "Development project using Jira/Scrum"
+            },
+            {
+              "description": "Development project using Test Driven Development."
+            }
+          ],
+          "Technologies": "Python, Django, Django Rest Framework, Swagger Documentation, DRF-yasg, Docker, Docker-compose, Ubuntu Server, Oracle, Bitbucket, Jira, TDD, Insomnia, PyCharm"
+        }
+      },
+      {
+        "company":"Coco Bambu Restaurant (Brazil)",
+        "title":"Full Stack Developer",
+        "years":"Jan 2019 – Sep 2019",
+        "description":"I worked in one of the biggest restaurant chains in Brazil. I've worked on a project called Discount Coupon. This project was created to reach Coco Bambu's clients giving them a discount coupon. Basically, the client downloads the app from Play Store/App Store, chooses the coupons, presents to the waiter, and receives the discount in the establishment. I've worked creating the API Rest and cloud using Python, Django, Django Rest Framework, Swagger, PostgreSQL, Docker, ElasticSearch, Sentry, and AWS Services such as EC2, RDS, LoadBalancer, AWS Cloud Formation.",
+        "project": {
+          "name": "Coco Bambu API / Dashboard",
+          "activities": [
+            {
+              "description": "Development of Python/Django/Django Rest API"
+            },
+            {
+              "description": "Development using Docker"
+            },
+            {
+              "description": "Development of distributed applications using AWS"
+            },
+            {
+              "description": "Development of project using SCRUM"
+            },
+            {
+              "description": "Development project using Test Driven Development."
+            }
+          ],
+          "Technologies": "Python, Django, Django Rest, Swagger Documentation, Docker, Ubuntu Server, GitLab, TDD, AWS Services"
+        }
+      }
+    ],
+    "skills":[
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name":"Ubuntu",
+        "level":"70%"
+      },
+      {
+        "name":"PostgreSQL",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%"
+      },
+      {
+        "name":"AWS",
+        "level":"65%"
+      },
+      {
+        "name":"MySQL",
+        "level":"60%"
+      },
+      {
+        "name":"Django Rest Fram",
+        "level":"70%"
+      },
+      {
+        "name":"Robot Framework",
+        "level":"40%"
+      },
+      {
+        "name":"Selenium",
+        "level":"40%"
+      },
+      {
+        "name":"Tornado Framework",
+        "level":"35%"
+      },
+      {
+        "name":"Flask Framework",
+        "level":"40%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"45%"
+      },
+      {
+        "name":"HTTP Protocol",
+        "level":"80%"
+      },
+      {
+        "name":"SNMP Protocol",
+        "level":"30%"
+      },
+      {
+        "name":"Rest API",
+        "level":"70%"
+      },
+      {
+        "name":"JIRA",
+        "level":"60%"
+      },
+      {
+        "name":"Scrum",
+        "level":"70%"
+      },
+      {
+        "name":"CI/CD Process",
+        "level":"75%"
+      },
+      {
+        "name":"ATDD Process",
+        "level":"75%"
+      },
+      {
+        "name":"Docker-compose",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
